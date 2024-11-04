@@ -2,7 +2,7 @@
 
 ## Highlights
 
-This program takes in a number and genenrates that many NPC profiles and displays their characteristics. These characteristics are the following:
+This program takes in a number and generates that many NPC profiles and displays their characteristics. These characteristics are the following:
 
 * Name
 * Age
@@ -13,7 +13,7 @@ This program takes in a number and genenrates that many NPC profiles and display
 
 ## Overview
 
-  Upon start, the program will ask for a interger input for the amount of NPCs the user wishes to generate. When they enter that number, the program will turn that into a range, and use it in a for loop. For that many times, the program will choose a random name based on a list of gender-neutral names that is already provided, it will randomize an age from 6 to 50, it will choose a gender randomly, a country randomly, and a job randomly. Based on the gender and age, the program will run through a series of conditional statements in order to choose the sprite model that best fits both characteristics. For example, if the character is 10 years old, it will assign it a 'Kid' sprite model, regardless of gender. If the character is 28 years old, and is female, the program will assign it a 'Tall Female' model, as the program assigns such to all females over 25 years of age. The program runs through similar series of conditionals for other ages. At the end of the loop, the program will print the profile of the NPC, with each characteristic on a separate line. This goes on for however many NPCs the user asked the program to generate.
+  Upon start, the program will ask for a integer input for the amount of NPCs the user wishes to generate. When they enter that number, the program will turn that into a range, and use it in a for loop. For that many times, the program will choose a random name based on a list of gender-neutral names that is already provided, it will randomize an age from 6 to 50, it will choose a gender randomly, a country randomly, and a job randomly. Based on the gender and age, the program will run through a series of conditional statements in order to choose the sprite model that best fits both characteristics. For example, if the character is 10 years old, it will assign it a 'Kid' sprite model, regardless of gender. If the character is 28 years old, and is female, the program will assign it a 'Tall Female' model, as the program assigns such to all females over 25 years of age. The program runs through similar series of conditionals for other ages. At the end of the loop, the program will print the profile of the NPC, with each characteristic on a separate line. This goes on for however many NPCs the user asked the program to generate.
 
 ## Code Sample
 
