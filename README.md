@@ -49,9 +49,9 @@ print(f'\nName: {name} \nAge: {age} \nGender: {gender} \nModel: {model} \nCountr
 
 An example of what one NPC profile would look like in the output would look like this:
 
-Name: Tayo
-Age: 16
-Gender: Female
-Model: Young Female
-Country: North Country
+Name: Tayo\
+Age: 16\
+Gender: Female\
+Model: Young Female\
+Country: North Country\
 Occupation: Inn owner
