@@ -20,7 +20,7 @@ This program takes in a number and generates that many NPC profiles and displays
 This is how the program decides what sprite model to assign the NPC, based on the already set age and gender.
 
 ```
-if age <= 12:
+    if age <= 12:
         model = 'Kid'
     elif gender is 'Female' and 12 < age <= 25:
         model = 'Young Female'
